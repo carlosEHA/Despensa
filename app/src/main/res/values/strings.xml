@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Despensa</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">9hjl8ZB6S7HHtFZjWI6fGndM9jK6MwqJVubXhlg2</string>
+    <string name="back4app_client_key">rDRqo5Gqv9DvdUjA7A5jo3gVbx3o47WfybLGcVde</string>
+    <string name="producto">Producto</string>
+    <string name="gasto">Gasto</string>
+    <string name="tarea">Tarea</string>
+
+
+</resources>
